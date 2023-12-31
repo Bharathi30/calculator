@@ -9,8 +9,6 @@ export default function Calculator() {
     return (
         <div className="container-fluid d-flex justify-content-center align-items-center vh-100">
             
-           
-
             {/*** calculator app Background card  ***/ }
             <div className="calculator card p-5" >
 
